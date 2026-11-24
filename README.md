@@ -11,9 +11,10 @@
   <img src="https://img.shields.io/badge/LangGraph-AI_Agent-8A2BE2">
 </p>
 
-<p align="center"><img src="screenshots/recommended-lineup.png" width="90%"></p>
+<p align="center"><img src="screenshots/my-team.png" width="90%"></p>
+<p align="center"><i>My Team</i></p>
 
-> 🔒 **Source code is private.** This repo showcases the project. Code is available on request for recruiters and interviewers.
+> 🔒 **Source code is private.** This repo showcases the project. Code is available on request.
 
 ## ✨ What it does
 - 📈 **Predicts expected points** for every Premier League player each gameweek using a machine learning model trained on historical FPL data
@@ -27,9 +28,9 @@
 
 ## 🖼️ Screenshots
 
-| Dashboard | My Team |
+| Dashboard | Recommended Lineup |
 |---|---|
-| <img src="screenshots/dashboard.png"> | <img src="screenshots/my-team.png"> |
+| <img src="screenshots/dashboard.png"> | <img src="screenshots/recommended-lineup.png"> |
 
 | Transfer Suggestions | Position Rebuild Planner |
 |---|---|
